@@ -1,1 +1,1 @@
-print ("hola isekai")
+print ("hola isekai "2)
